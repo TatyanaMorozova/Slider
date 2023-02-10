@@ -3,4 +3,4 @@
 * CSS 3
 + JavaScript
 
-You can view [https://tatyanamorozova.github.io/Slider/](Slider)
+You can view [Slider]()
