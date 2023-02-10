@@ -2,4 +2,5 @@
 -HTML 5
 * CSS 3
 + JavaScript
-tou can view []
+
+You can view [https://tatyanamorozova.github.io/Slider/](Slider)
